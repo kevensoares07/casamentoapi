@@ -43,7 +43,8 @@ var app = builder.Build();
 // Configurar o middleware de CORS (antes de Authorization)
 app.UseCors("PermitirTudo");
 
-if (app.Environment.IsDevelopment())
+// Habilitar Swagger tanto em Desenvolvimento quanto em Produção
+if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
