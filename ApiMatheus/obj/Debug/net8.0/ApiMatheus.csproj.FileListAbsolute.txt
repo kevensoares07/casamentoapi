@@ -40,3 +40,4 @@ C:\Users\franc\RiderProjects\ApiMatheus\ApiMatheus\bin\Debug\net8.0\Mono.TextTem
 C:\Users\franc\RiderProjects\ApiMatheus\ApiMatheus\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\franc\RiderProjects\ApiMatheus\ApiMatheus\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\franc\RiderProjects\ApiMatheus\ApiMatheus\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\franc\RiderProjects\ApiMatheus\ApiMatheus\obj\Debug\net8.0\ApiMatheus.sourcelink.json

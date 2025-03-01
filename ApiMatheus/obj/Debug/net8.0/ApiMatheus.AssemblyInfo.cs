@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiMatheus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c679f121e87e1ba2cd1fc213b53fdd019146bad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiMatheus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiMatheus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
